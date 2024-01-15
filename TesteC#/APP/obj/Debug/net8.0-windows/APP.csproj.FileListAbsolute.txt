@@ -1,0 +1,16 @@
+C:\Users\Badan\Desktop\TesteRC\APP\bin\Debug\net8.0-windows\APP.exe
+C:\Users\Badan\Desktop\TesteRC\APP\bin\Debug\net8.0-windows\APP.deps.json
+C:\Users\Badan\Desktop\TesteRC\APP\bin\Debug\net8.0-windows\APP.runtimeconfig.json
+C:\Users\Badan\Desktop\TesteRC\APP\bin\Debug\net8.0-windows\APP.dll
+C:\Users\Badan\Desktop\TesteRC\APP\bin\Debug\net8.0-windows\APP.pdb
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.csproj.GenerateResource.cache
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.AssemblyInfoInputs.cache
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.AssemblyInfo.cs
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.csproj.CoreCompileInputs.cache
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.dll
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\refint\APP.dll
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.pdb
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.genruntimeconfig.cache
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\ref\APP.dll
+C:\Users\Badan\Desktop\TesteRC\APP\obj\Debug\net8.0-windows\APP.AppGustavo.resources
